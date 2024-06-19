@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4553fbe.css",
+    "main.js": "/static/js/main.9c1b6ccd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/musafir.png": "/static/media/musafir.15351d9686639b097c3d.png",
+    "static/media/mydp.jpg": "/static/media/mydp.3525733458467fb883bc.jpg",
+    "static/media/img1.png": "/static/media/img1.f0a28cd1de962c5ce07c.png",
+    "static/media/img.png": "/static/media/img.7e11b2de182ac2b9f849.png",
+    "static/media/img7.png": "/static/media/img7.39c61a6bf18bf1a00212.png",
+    "static/media/blackjack.png": "/static/media/blackjack.aee81e625abcb59a1251.png",
+    "static/media/img4.png": "/static/media/img4.c8a9555b13eabb6cd2f1.png",
+    "static/media/Anirudh-CV.pdf": "/static/media/Anirudh-CV.bafcd64328d6133cccf7.pdf",
+    "static/media/profile.webp": "/static/media/profile.969e52bbd358523f4167.webp",
+    "static/media/auth.png": "/static/media/auth.c25a7b950e1695cce363.png",
+    "static/media/simon.png": "/static/media/simon.6b45e22012072d61e00d.png",
+    "static/media/toss.png": "/static/media/toss.c6592eb4264365135496.png",
+    "static/media/kanban.png": "/static/media/kanban.75aa918962e5cbb37918.png",
+    "index.html": "/index.html",
+    "main.e4553fbe.css.map": "/static/css/main.e4553fbe.css.map",
+    "main.9c1b6ccd.js.map": "/static/js/main.9c1b6ccd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4553fbe.css",
+    "static/js/main.9c1b6ccd.js"
+  ]
+}
